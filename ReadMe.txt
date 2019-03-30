@@ -1,0 +1,1 @@
+hadoop jar wordcount-1.0-SNAPSHOT.jar com.dev.version.WordCount /input/example.txt /output
